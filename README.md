@@ -9,8 +9,6 @@
     <p align="left">I'm a 4th year computer science major at UC San Diego. I started programming cause I wanted to make videogames and now love to make cool websites.</p>
 </div>
 
-<br>
-
 <div align='center'>
     <h2>My Experiences 🔭</h2>
     <a href="https://c4h.ucsd.edu/">Center For Health Design | Software Engineer Intern</a>
