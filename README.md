@@ -22,10 +22,12 @@
 
 <div align="center">
     <h2>Projects I've Worked On 🚀</h2>
-    <a href="https://df24.ucsddesign.co/">Design Co Frontiers 2024</a>
+    <a href="https://df24.ucsddesign.co/">Design Frontiers 2024</a>
     <br>
     <a href="https://upgrade24.ucsddesign.co/">Upgrade 2024</a>
     <br>
     <a href="https://stride24.ucsddesign.co/">Stride 2024</a>
+    <br>
+    <a href="https://df25.ucsddesign.co/">Design Frontiers 2024</a>
 </div>
 
