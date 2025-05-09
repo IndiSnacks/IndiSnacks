@@ -28,6 +28,6 @@
     <br>
     <a href="https://stride24.ucsddesign.co/">Stride 2024</a>
     <br>
-    <a href="https://df25.ucsddesign.co/">Design Frontiers 2024</a>
+    <a href="https://df25.ucsddesign.co/">Design Frontiers 2025</a>
 </div>
 
