@@ -1,7 +1,7 @@
 <h1 align='center'>WIP : Hello There I'm Sahil 👋</h1>
 <div align='center'>
     <a href="https://www.linkedin.com/in/sahilgathe/">LinkedIn</a>
-    <a href="./Sahil Gathe Resume.pdf">Resume</a>
+    <a href="./Sahil_s_Resume_Summer_2025.pdf">Resume</a>
 <div align='center'>
 
 <div>
