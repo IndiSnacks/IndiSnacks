@@ -27,5 +27,7 @@
     <a href="https://upgrade24.ucsddesign.co/">Upgrade 2024</a>
     <br>
     <a href="https://stride24.ucsddesign.co/">Stride 2024</a>
+    <br>
+    <a href="https://df25.ucsddesign.co/">Stride 2025</a>
 </div>
 
