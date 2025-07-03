@@ -13,7 +13,7 @@
 
 <h2>My Experiences 🔭</h2>
 
-<a href="https://c4h.ucsd.edu/"><img style="margin-right:10px" align="left" src="https://c4h.ucsd.edu/wp-content/uploads/elementor/thumbs/logo-white-qkkjmuxrx3l820phgg461obkhv36kyigj2ndafok6o.png" width="100" height=""></a>
+<a href="https://c4h.ucsd.edu/"><img style="margin-right:10px" align="left" src="img/C4H_logo.png" width="100" height=""></a>
 **Software Engineer Intern** \
 [**Center for Health Design**](https://c4h.ucsd.edu/) • Internship \
 Languages & Technologies: `Unity`, `Javascript`, `C#`, `MR/AR Development`\
