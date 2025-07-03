@@ -45,7 +45,7 @@ Languages & Technologies: `React`, `Javascript`, `Sass`, `Responsive Web Design`
 <br>
 <a href="https://upgrade24.ucsddesign.co/"><img style="margin-right:10px" align="Center" src="img/Upgrade2024.jpg" width="500" height=""></a>
 
-### [**Upgrade**](https://df24.ucsddesign.co/) • 2024 
+### [**Upgrade**](https://upgrade24.ucsddesign.co/) • 2024 
 <!-- Languages & Technologies: `React`, `Javascript`, `Sass`, `Responsive Web Design`\ -->
 <br>
 
