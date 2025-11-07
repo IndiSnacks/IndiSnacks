@@ -27,7 +27,7 @@ Languages & Technologies: `React`, `WorkOS`, `OAuth 2.0`, `Convex`, `Web App Dev
 Languages & Technologies: `Unity`, `Javascript`, `C#`, `MR/AR Development`\
 <br>
 
-<a href="https://cer.ucsd.edu/"><img style="margin-right:10px; object-fit: contain; background-color: white;" align="left" src="https://www.innovationnewsnetwork.com/wp-content/uploads/2024/10/logo-1920-1080-uc-san-diego-center-for-energy-research-001.jpg" width="100" height="100"></a>
+<a href="https://cer.ucsd.edu/"><div style="float: left; width: 100px; height: 100px; background-color: white; margin-right: 10px; text-align: center; line-height: 100px;"><img style="max-width: 100%; max-height: 100%; vertical-align: middle; object-fit: contain;" src="https://www.innovationnewsnetwork.com/wp-content/uploads/2024/10/logo-1920-1080-uc-san-diego-center-for-energy-research-001.jpg"></div></a>
 **Student Software Engineer** \
 [**UC San Diego Center for Energy Research**](https://cer.ucsd.edu/)\
 Languages & Technologies: `React Native`, `Javascript`, `CSS`, `Mobile Development`\
