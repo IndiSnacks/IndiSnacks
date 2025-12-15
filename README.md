@@ -15,13 +15,13 @@
 
 <h2>My Experiences 🔭</h2>
 
-<a href="https://www.linkedin.com/company/doceo-technologies/posts/?feedView=all"><img style="margin-right:10px" align="left" src="https://media.licdn.com/dms/image/v2/D4E0BAQErREvC9hBjsg/company-logo_200_200/B4EZiZN.I7GUAI-/0/1754917234485?e=1764201600&v=beta&t=0S_zPJcLy4izS4aU74IvxrT5xXwisr3v2t97eJ9Xumw" width="100" height=""></a>
+<a href="https://www.linkedin.com/company/doceo-technologies/posts/?feedView=all"><img style="margin-right:10px" align="left" src="https://i.imgur.com/azq1KuK.jpeg" width="100" height=""></a>
 **Fullstack Software Engineer** \
 [**Doceo**](https://www.linkedin.com/company/doceo-technologies/posts/?feedView=all)\
 Languages & Technologies: `React`, `WorkOS`, `OAuth 2.0`, `Convex`, `Web App Development`\
 <br>
 
-<a href="https://c4h.ucsd.edu/"><img style="margin-right:10px" align="left" src="https://media.licdn.com/dms/image/v2/D560BAQF8NUfSR35cTw/company-logo_200_200/company-logo_200_200/0/1731718521058/qualcomm_institute_logo?e=1764201600&v=beta&t=xEuv2Kje457LUfHgHY8BW5Qxrby-2AZ_RztWSrGN8Ig" width="100" height="100"></a>
+<a href="https://c4h.ucsd.edu/"><img style="margin-right:10px" align="left" src="https://i.imgur.com/E9rs3ji.jpeg" width="100" height="100"></a>
 **Software Engineer Intern** \
 [**Center for Health Design**](https://c4h.ucsd.edu/) • Internship \
 Languages & Technologies: `Unity`, `Javascript`, `C#`, `MR/AR Development`\
